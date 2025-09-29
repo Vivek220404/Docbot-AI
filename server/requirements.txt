@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+groq
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+pypdf
+sentence-transformers
+numpy
+tiktoken
